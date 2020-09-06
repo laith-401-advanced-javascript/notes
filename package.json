@@ -1,0 +1,29 @@
+{
+    "name": "notes",
+    "version": "1.0.0",
+    "description": "## Project:A terminal based (CLI) application",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint '**/*.js'"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/laith-401-advanced-javascript/notes.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/laith-401-advanced-javascript/notes/issues"
+    },
+    "homepage": "https://github.com/laith-401-advanced-javascript/notes#readme",
+    "dependencies": {
+        "eslint": "^7.8.1",
+        "minimist": "^1.2.5"
+    }
+}
