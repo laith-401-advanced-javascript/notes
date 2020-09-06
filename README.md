@@ -1,5 +1,5 @@
 
-
+[LINK PULL Request](https://github.com/laith-401-advanced-javascript/notes/pull/1)
 
 # lab / class-01
 
@@ -58,7 +58,8 @@ i.e.
 #### UML
 
 Link to an image of the UML for your application and response to events
-![UML](img\Main.png)
+
+![UML IMAGE](img/Main.png)
 
 
 ```
@@ -94,3 +95,7 @@ linkedIn :https://www.linkedin.com/in/laith-aldaree/
 
 * if you have any quastion feel free to send me an 
   email : mr.laith_2011@hotmail.com
+
+
+  
+
