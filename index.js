@@ -7,5 +7,5 @@ const Note = require('./lib/note.js');
 
 const obj = new Input();
 
-new Note(obj);
-// console.log('object', obj);
+console.log('object', obj.note);
+new Note(obj.note);
