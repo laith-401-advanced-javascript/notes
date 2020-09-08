@@ -1,10 +1,12 @@
 
 [LINK PULL Request](https://github.com/laith-401-advanced-javascript/notes/pull/1)
+[LINK PULL Request](https://github.com/laith-401-advanced-javascript/notes/pull/2)
+[LINK PULL Request](https://github.com/laith-401-advanced-javascript/notes/pull/3)
+
 
 # lab / class-01
 
 ## Project:A terminal based (CLI) application
-
 
 ### About this repostory
 
@@ -26,9 +28,6 @@ Start time: 16:00
 Finish time: 21:0
 Actual time needed to complete: 5 hours
 ---
-
-
-
 
 
 
@@ -75,7 +74,7 @@ location: Az Zarqa-Al Azraq-Jordan
 ```
 
 ### Contact 
-
+```
 ---
 Email:mr.laith_2011@hotmail.com
 GitHub:https://github.com/laith-2020
@@ -83,11 +82,11 @@ linkedIn :https://www.linkedin.com/in/laith-aldaree/
 ---
 ```
 
+
+
 * if you have any quastion feel free to send me an 
   email : mr.laith_2011@hotmail.com
 
+
 ### Github Actions
 [actions](https://github.com/laith-401-advanced-javascript/notes/actions/runs/243430952)
-
-  
-
