@@ -4,29 +4,29 @@
 const schema = require('./note-schema.js');
 
 class Noote {
-    constructor() {}
+  constructor() {}
 
-    create(record) {
-        let noteObj = new schema(record);
-        return noteObj.save();
+  create(record) {
+    let noteObj = new schema(record);
+    return noteObj.save();
+  }
+
+  get(category) {
+    if (category) {
+      return schema.find(category);
+    } else {
+      return schema.find();
     }
 
-    get(category) {
-        if (category) {
-            return schema.find(category);
-        } else {
-            return schema.find();
-        }
+  }
+  update(_id, data) {
+    let noteObj = new schema();
+    return noteObj.findOneAndUpdate(_id, data);
+  }
 
-    }
-    update(_id, data) {
-        let noteObj = new schema();
-        return noteObj.findOneAndUpdate(_id, data);
-    }
-
-    delete(_id) {
-        let noteObj = new schema(_id);
-    }
+  delete(_id) {
+    new schema(_id);
+  }
 
 }
 

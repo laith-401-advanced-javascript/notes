@@ -4,10 +4,10 @@
 **labs**     | **URL**
 ------------ | -------------
 Home         | [Home](https://github.com/laith-401-advanced-javascript/notes)
- lab 1       | [](https://github.com/laith-401-advanced-javascript/notes/pull/1)
- lab 02      | [](https://github.com/laith-401-advanced-javascript/notes/pull/2)
- prep 03     | [mongo](https://github.com/laith-401-advanced-javascript/notes/pull/3)
- prep 04     | [](https://github.com/laith-401-advanced-javascript/notes/pull/4)
+ class-01       | [class-01](https://github.com/laith-401-advanced-javascript/notes/pull/1)
+ class-01     | [class-02](https://github.com/laith-401-advanced-javascript/notes/pull/2)
+ class-01     | [class-03](https://github.com/laith-401-advanced-javascript/notes/pull/3)
+ class-01     | [class-04](https://github.com/laith-401-advanced-javascript/notes/pull/4)
  prep 05     | []()
 
 
