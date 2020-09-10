@@ -3,7 +3,7 @@
 
 const schema = require('./note-schema.js');
 
-class noote {
+class Noote {
     constructor() {}
 
     create(record) {
@@ -30,4 +30,4 @@ class noote {
 
 }
 
-module.exports = new noote();
+module.exports = Noote;
